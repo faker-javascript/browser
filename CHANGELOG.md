@@ -1,3 +1,7 @@
+<a name="1.1.1"></a>
+# [1.1.1](https://github.com/faker-javascript/browser) (2022-01-25)
+* Fix browser.json
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/faker-javascript/browser) (2022-01-25)
 * Improve and simplify logic
